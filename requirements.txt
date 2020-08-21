@@ -32,7 +32,7 @@ httplib2==0.11.3
 jira==2.0.0
 kombu==4.2.1
 langdetect==1.0.7
-maxminddb==1.4.1
+maxminddb==1.5.4
 nltk==3.3
 oauth2==1.9.0.post1
 oauthlib==2.1.0
@@ -48,7 +48,6 @@ requests-toolbelt==0.8.0
 requests==2.20.0
 sauceclient==1.0.0
 selenium==3.13.0
-setuptools==45
 six==1.11.0
 testfixtures==6.2.0
 textblob==0.15.1
