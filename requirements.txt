@@ -24,7 +24,7 @@ ec2-metadata==1.6.0
 elasticsearch==5.5.3  # pyup: >=5.0.0,<6.0.0
 feedparser==5.2.1
 #libgdal
-gdal-devel
+#gdal-devel
 GDAL
 geoip2==2.8.0
 geopy==1.17.0
