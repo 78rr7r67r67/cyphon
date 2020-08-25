@@ -23,6 +23,7 @@ drfdocs==0.0.11
 ec2-metadata==1.6.0
 elasticsearch==5.5.3  # pyup: >=5.0.0,<6.0.0
 feedparser==5.2.1
+gdal
 geoip2==2.8.0
 geopy==1.17.0
 gunicorn==19.8.1
